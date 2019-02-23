@@ -15,3 +15,5 @@ Install the following packages using pip:
 
 # Sample
 See the [changelog_notebook](./changelog_notebook.ipynb) for example on how functions were used to collect data then store as CSV
+
+**Note:** you can view jupyter notebooks on GitHub!
