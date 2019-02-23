@@ -14,4 +14,4 @@ Install the following packages using pip:
 - pandas
 
 # Sample
-See the (changelog_notebook)[./changelog_notebook.ipynb] for example on how functions were used to collect data then store as CSV
+See the [changelog_notebook](./changelog_notebook.ipynb) for example on how functions were used to collect data then store as CSV
