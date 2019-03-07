@@ -23,10 +23,11 @@ See the [changelog_notebook](./changelog_notebook.ipynb) for example on how func
 The main functions are in utils.py. You can clone this work and re-use and send a pull request for any improvements you make.
 You can also review utils.py and add comments by clicking on the line numbers to open issues.
 
-
 # How to cite this work
 
-At the moment, this is part of the following working paper:
+You are welcome to reuse and adapt this work for your own project, we ask that you reference this work in your project.
+
+At the moment, this is part of the following working paper, cite it as:
 
 AlMarzouq, M., AlZaidan, A., & AlDallal, J. (2019). Realizing the Promise of Mining GitHub for Social Research. Working paper.
 
