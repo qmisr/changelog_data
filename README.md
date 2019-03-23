@@ -29,6 +29,6 @@ You are welcome to reuse and adapt this work for your own project, we ask that y
 
 At the moment, this is part of the following working paper, cite it as:
 
-AlMarzouq, M., AlZaidan, A., & AlDallal, J. (2019). Realizing the Promise of Mining GitHub for Social Research. Working paper.
+```AlMarzouq, M., AlZaidan, A., & AlDallal, J. (2019). Realizing the Promise of Mining GitHub for Social Research. Working paper.```
 
 We would appreciate any comments on how to best cite this work. Should the repository be cited? or the research paper that introduced the instrument? One problem that needs to be addressed is how improvements can be recognized? We can certainly add an AUTHORS file, but just like survey instrument, we hope that there can be a way in which improvements can be recognized in research papers.
