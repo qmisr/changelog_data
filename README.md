@@ -20,6 +20,8 @@ See the [changelog_notebook](./changelog_notebook.ipynb) for example on how func
 
 # How to improve this work
 
+You are welcome to report bugs and suggest improvements by creating [new issues](https://github.com/qmisr/changelog_data/issues/new)
+
 The main functions are in utils.py. You can clone this work and re-use and send a pull request for any improvements you make.
 You can also review utils.py and add comments by clicking on the line numbers to open issues.
 
